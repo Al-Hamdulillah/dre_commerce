@@ -1,0 +1,13 @@
+01. benarosi sari = 2200;
+02. bodlani sari = 1000;
+03. belauj = 170;
+04. 4ti borka, 2ti saya, 2ti blauj = 2200;
+05. borka  = 550;
+06. orna  = 100;
+07. 2ti borka = 950;
+08. jatayat = 100;
+
+-----------------------------------------------------
+TOTAL = 7270TK;
+
+baki thake(13000-7270) = 5730
